@@ -9,6 +9,8 @@ const THEMES: Record<string, { a: string; b: string; motif: "reels" | "wheel" | 
   "gilded-baccarat": { a: "#1e3d36", b: "#c4a574", motif: "chips" },
   "ember-slots": { a: "#2a1a16", b: "#c45c5c", motif: "reels" },
   "aurora-poker": { a: "#162032", b: "#c4a574", motif: "cards" },
+  "cosmic-fortune": { a: "#0f1a2e", b: "#9ab0d0", motif: "stars" },
+  "pharaohs-gold": { a: "#2a2318", b: "#e0c99a", motif: "reels" },
 };
 
 export function GameArt({ slug, className = "" }: { slug: string; className?: string }) {
