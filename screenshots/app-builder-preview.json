@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nocturne",
+      "hasCanvas": false,
+      "bodyTextLen": 778,
+      "bodyTextHash": "2cf1d7a2f3ab0cd11b1c760e7490af11254fb7b1874275e3649a93cb9eaf7009",
+      "bodyTextPrefix": "NOCTURNE Home Games Slots Table Games Poker Rewards VIP Leaderbo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nocturne",
+      "hasCanvas": false,
+      "bodyTextLen": 719,
+      "bodyTextHash": "4814cd454301638b8e6e2b7955a1a58b58fc02e4facff3d9526e232deaa8fb27",
+      "bodyTextPrefix": "NOCTURNE PRIVATE SALON · SOCIAL PLAY The house is open. The stak",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
